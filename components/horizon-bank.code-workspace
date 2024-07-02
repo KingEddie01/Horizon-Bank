@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"java.project.explorer.showNonJavaResources": false,
+		"java.dependency.syncWithFolderExplorer": false
+	}
+}
